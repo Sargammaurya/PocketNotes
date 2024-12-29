@@ -1,4 +1,4 @@
-# Keeper App
+# Pocket Notes
 
 A simple and elegant note-keeping application inspired by Google Keep. Built with React, this app allows users to create, view, and delete notes seamlessly.
 
@@ -15,9 +15,8 @@ A simple and elegant note-keeping application inspired by Google Keep. Built wit
 
 ## Tech Stack
 
-- **Frontend**: React.js
-- **Styling**: CSS
-- **Fonts**: Google Fonts (`Montserrat`, `McLaren`)
+- **Languages**: HTML5, CSS3, JavaScript (ES6+)
+- **Framework**: React.js
 
 ---
 This app is deployed on Vercel and can be accessed at (https://keeper-app-sm.vercel.app/).
